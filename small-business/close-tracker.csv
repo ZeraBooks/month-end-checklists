@@ -1,0 +1,14 @@
+Step,Owner,Due day,Done,Notes
+1. Statements in,Owner or office manager,Day 5,No,"Bank, card, loan and processor statements plus the payroll register"
+2. Reconcile each bank and card account to the printed closing balance,Bookkeeper,Day 7,No,One line per account in the notes if any won't tie
+3. Pair transfers,Bookkeeper,Day 7,No,Card payments from checking are transfers
+4. Receivables and payables,Bookkeeper,Day 7,No,Read both agings as of the last day of the month
+5. Accruals,Bookkeeper,Day 8,No,Utility and contractor bills that arrive after month end
+6. Prepaids,Bookkeeper,Day 8,No,Insurance and annual software
+7. Payroll from the register,Bookkeeper,Day 8,No,"Gross wages, employer taxes and withholdings"
+8. Depreciation,Bookkeeper,Day 8,No,
+9. Loan interest split,Bookkeeper,Day 8,No,Compare the loan balance with the lender's statement
+10. Sales tax tie-out,Bookkeeper,Before the return is due,No,Collected less remitted equals the payable
+11. P&L review against last month,Owner and bookkeeper,Day 9,No,List every line that moved more than expected
+12. Balance sheet scan,Bookkeeper,Day 9,No,"Negative balances, uncategorized, suspense"
+13. Lock and send,Bookkeeper,Day 10,No,Record the date locked and who received the reports
