@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Month-end checklists"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/month-end-checklists"
+repository-code: "https://github.com/ZeraBooks/month-end-checklists"
+license: CC-BY-4.0
+abstract: "A month-end close checklist lists, in order, the steps that make a month's books final: collect the statements, reconcile every bank and card account to its printed closing balance, post adjustments, review the reports and lock the month. Each folder here holds that checklist in Markdown and a CSV tracker with one row per step."
+keywords:
+  - accounting
+  - bookkeeping
+  - checklist
+  - month-end-close
+  - small-business
+date-released: 2026-10-15

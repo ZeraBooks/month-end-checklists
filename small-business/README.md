@@ -1,12 +1,16 @@
 # Small business month-end close checklist
 
-A month-end close for a small business has 13 steps, done in this order: get
-every statement in, reconcile each bank and card account to its printed closing
-balance, pair transfers, clear receivables and payables, post accruals,
-prepaids, payroll from the register, depreciation and the loan interest split,
-tie out sales tax, review the P&L against last month, scan the balance sheet,
-then lock the month and send the reports. The reconciliations come early
-because every later entry depends on the cash being right.
+A small business month-end close has 13 steps, done in order: collect every
+statement, reconcile each bank and card account to its printed closing balance,
+post the entries the bank can't show, review the reports and lock the month.
+The reconciliations come early because every later entry depends on the cash
+being right.
+
+In full: get every statement in, reconcile each account, pair transfers, clear
+receivables and payables, post accruals, prepaids, payroll from the register,
+depreciation and the loan interest split, tie out sales tax, review the P&L
+against last month, scan the balance sheet, then lock the month and send the
+reports.
 
 ## Files
 
@@ -36,3 +40,22 @@ every later step would build on it.
 For a fuller explanation of each step, who usually does it and how long it
 takes, see ZeraBooks' guide,
 [Month-end close checklist](https://www.zerabooks.com/month-end-close-checklist).
+
+## FAQ
+
+### How long should a month-end close take for a small business?
+
+For a business with a few bank and card accounts, the work is usually half a day
+to a day. Waiting for statements takes longer than the work itself, and much
+bigger delays usually mean last month was not closed either.
+
+### What is the difference between reconciling and closing the month?
+
+Reconciling proves each account agrees with its statement. Closing locks the
+period so nothing dated in it can change without reopening it.
+
+### Should I reconcile a credit card to the calendar month or the statement period?
+
+To the statement, because it is the only document with a printed balance.
+Charges after the closing date fall on the next statement; if a large one
+belongs to this month, accrue it with a journal entry.
