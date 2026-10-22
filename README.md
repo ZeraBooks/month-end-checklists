@@ -9,6 +9,7 @@ one row per step.
 | Folder | For | Guide |
 |---|---|---|
 | [`small-business/`](small-business/) | A small business with a few bank and card accounts, closing its own books or with a bookkeeper | [Month-end close checklist, step by step](https://www.zerabooks.com/month-end-close-checklist) |
+| [`restaurant/`](restaurant/) | A restaurant: POS sales tied to card, cash and delivery app deposits, tips and sales tax held for others, inventory counts | [Bookkeeping for restaurants](https://www.zerabooks.com/bookkeeping-for-restaurants) |
 
 ## How to use these files
 

@@ -1,0 +1,11 @@
+Step,Owner,Due day,Done,Notes
+1. Statements and reports in,Manager,Day 3,No,"Bank, card, POS monthly report, processor and delivery app payouts, payroll register"
+2. Reconcile each bank and card account to the printed closing balance,Bookkeeper,Day 5,No,One line per account in the notes if any won't tie
+3. Tie sales to deposits,Bookkeeper,Day 5,No,"POS total against batches, cash, gift cards and delivery payouts"
+4. Pair transfers,Bookkeeper,Day 5,No,Card payments from checking are transfers
+5. Tips and sales tax held for others,Bookkeeper,Day 6,No,Both are liabilities until paid out or remitted
+6. Vendors and payables,Bookkeeper,Day 6,No,Compare main suppliers with their statements
+7. Inventory and cost of sales,Manager and bookkeeper,Day 6,No,Counts taken on the last day of the month
+8. Payroll from the register,Bookkeeper,Day 7,No,"Gross wages, employer taxes, withholdings"
+9. Other adjustments,Bookkeeper,Day 7,No,"Prepaids, depreciation, loan interest split"
+10. Review and lock,Owner and bookkeeper,Day 8,No,Record the date locked and who received the reports
