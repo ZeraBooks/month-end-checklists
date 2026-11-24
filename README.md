@@ -25,4 +25,4 @@ one row per step.
 The content and data in this repository are licensed under
 [CC BY 4.0](LICENSE). Free to use and adapt with credit to ZeraBooks.
 
-Maintained by [ZeraBooks](https://www.zerabooks.com).
+Maintained by ZeraBooks.
